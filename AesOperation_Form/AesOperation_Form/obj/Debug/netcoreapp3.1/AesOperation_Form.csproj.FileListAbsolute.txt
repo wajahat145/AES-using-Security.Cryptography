@@ -1,0 +1,16 @@
+C:\Users\Wajahat\source\repos\AesOperation_Form\AesOperation_Form\bin\Debug\netcoreapp3.1\AesOperation_Form.exe
+C:\Users\Wajahat\source\repos\AesOperation_Form\AesOperation_Form\bin\Debug\netcoreapp3.1\AesOperation_Form.deps.json
+C:\Users\Wajahat\source\repos\AesOperation_Form\AesOperation_Form\bin\Debug\netcoreapp3.1\AesOperation_Form.runtimeconfig.json
+C:\Users\Wajahat\source\repos\AesOperation_Form\AesOperation_Form\bin\Debug\netcoreapp3.1\AesOperation_Form.runtimeconfig.dev.json
+C:\Users\Wajahat\source\repos\AesOperation_Form\AesOperation_Form\bin\Debug\netcoreapp3.1\AesOperation_Form.dll
+C:\Users\Wajahat\source\repos\AesOperation_Form\AesOperation_Form\bin\Debug\netcoreapp3.1\AesOperation_Form.pdb
+C:\Users\Wajahat\source\repos\AesOperation_Form\AesOperation_Form\obj\Debug\netcoreapp3.1\AesOperation_Form.csproj.AssemblyReference.cache
+C:\Users\Wajahat\source\repos\AesOperation_Form\AesOperation_Form\obj\Debug\netcoreapp3.1\AesOperation_Form.Form1.resources
+C:\Users\Wajahat\source\repos\AesOperation_Form\AesOperation_Form\obj\Debug\netcoreapp3.1\AesOperation_Form.csproj.GenerateResource.cache
+C:\Users\Wajahat\source\repos\AesOperation_Form\AesOperation_Form\obj\Debug\netcoreapp3.1\AesOperation_Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wajahat\source\repos\AesOperation_Form\AesOperation_Form\obj\Debug\netcoreapp3.1\AesOperation_Form.AssemblyInfoInputs.cache
+C:\Users\Wajahat\source\repos\AesOperation_Form\AesOperation_Form\obj\Debug\netcoreapp3.1\AesOperation_Form.AssemblyInfo.cs
+C:\Users\Wajahat\source\repos\AesOperation_Form\AesOperation_Form\obj\Debug\netcoreapp3.1\AesOperation_Form.csproj.CoreCompileInputs.cache
+C:\Users\Wajahat\source\repos\AesOperation_Form\AesOperation_Form\obj\Debug\netcoreapp3.1\AesOperation_Form.dll
+C:\Users\Wajahat\source\repos\AesOperation_Form\AesOperation_Form\obj\Debug\netcoreapp3.1\AesOperation_Form.pdb
+C:\Users\Wajahat\source\repos\AesOperation_Form\AesOperation_Form\obj\Debug\netcoreapp3.1\AesOperation_Form.genruntimeconfig.cache
